@@ -1,0 +1,15 @@
+# exported by https://3dviewer.net
+newmtl blue
+Kd 0.6588235294117647 0.8392156862745098 0.9647058823529412
+d 1
+Ka 0 0 0
+Ks 0 0 0
+Ns 23
+map_Kd leaves.jpg
+newmtl green
+Kd 0.5215686274509804 0.7215686274509804 0.5254901960784314
+d 1
+Ka 0 0 0
+Ks 0 0 0
+Ns 23
+map_Kd Boxtree.png

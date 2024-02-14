@@ -1,0 +1,15 @@
+# exported by https://3dviewer.net
+newmtl Material__31
+Kd 0.9450980392156862 0.8274509803921568 0.5058823529411764
+d 1
+Ka 0 0 0
+Ks 0 0 0
+Ns 68.99999999999999
+map_Kd bark_002.jpg
+newmtl Material__32
+Kd 0.5137254901960784 0.7725490196078432 0.4980392156862745
+d 1
+Ka 0 0 0
+Ks 0 0 0
+Ns 100
+map_Kd igl.jpg

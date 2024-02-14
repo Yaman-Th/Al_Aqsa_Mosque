@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\Shaders">
+      <UniqueIdentifier>{367c7073-4226-405d-800a-b18e8beddd15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Static Classes">
+      <UniqueIdentifier>{dd1c0602-bd3c-4fa7-8f8a-fc613a1737d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Object Classes">
+      <UniqueIdentifier>{8d07daef-fe2b-4452-b816-0f80ad0cfb42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Main Classes">
+      <UniqueIdentifier>{92eb4cb6-8e51-4ecd-9d78-d623d0e5d10c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\Al_Qibli_Mosque.cpp">
+      <Filter>Source Files\Main Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\DomeOfTheRock.cpp">
+      <Filter>Source Files\Main Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Environment.cpp">
+      <Filter>Source Files\Main Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Ground.cpp">
+      <Filter>Source Files\Main Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\skybox.cpp">
+      <Filter>Source Files\Main Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Wall.cpp">
+      <Filter>Source Files\Main Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Manager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\circle.cpp">
+      <Filter>Source Files\Object Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\cube.cpp">
+      <Filter>Source Files\Object Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Cylinders.cpp">
+      <Filter>Source Files\Object Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Dome.cpp">
+      <Filter>Source Files\Object Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\model.cpp">
+      <Filter>Source Files\Main Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\texture.cpp">
+      <Filter>Source Files\Static Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\stb.cpp">
+      <Filter>Source Files\Static Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\glad.c">
+      <Filter>Source Files\Static Classes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\Al_Qibli_Mosque.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\DomeOfTheRock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Environment.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Ground.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\skybox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Wall.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Manager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Dome.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Cylinders.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\circle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\cube.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="6.2.skybox.vs">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="10.debug_cascade.fs">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="10.debug_cascade.vs">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="10.debug_quad.vs">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="10.debug_quad_depth.fs">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="10.shadow_mapping.fs">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="10.shadow_mapping.vs">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="10.shadow_mapping_depth.fs">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="10.shadow_mapping_depth.gs">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="10.shadow_mapping_depth.vs">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="1.model_loading.fs">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="1.model_loading.vs">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="6.1.coordinate_systems.fs">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="6.1.coordinate_systems.vs">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="6.2.cubemaps.fs">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="6.2.cubemaps.vs">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+    <None Include="6.2.skybox.fs">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+  </ItemGroup>
+</Project>

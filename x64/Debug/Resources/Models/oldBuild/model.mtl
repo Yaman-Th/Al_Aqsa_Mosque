@@ -1,0 +1,8 @@
+# exported by https://3dviewer.net
+newmtl residental_building
+Kd 0.8 0.8 0.8
+d 1
+Ka 0 0 0
+Ks 0 0 0
+Ns 96.078431
+map_Kd building_texture.png

@@ -1,0 +1,13 @@
+# exported by https://3dviewer.net
+newmtl arch
+Kd 1 1 0
+d 1
+Ka 0 0 0
+Ks 0 0 0
+Ns 0
+newmtl stairs
+Kd 0.011764705882352941 0.8 0
+d 1
+Ka 0 0 0
+Ks 0 0 0
+Ns 0
