@@ -3,10 +3,13 @@ AL Aqsa Mosque 3D Model, Using C++ and Modern OpenGl.
 These are some shots from the project :
 
 1.Dome of the rock mosque
-![Dome Of The Rock](https://github.com/user-attachments/assets/778dceab-ed82-4d1a-be93-a1823847b1ec)
+![Dome Of The Rock2](https://github.com/user-attachments/assets/f05c401e-a521-48b1-ada6-bf1993a2524d)
+
 2.Carpet inside the dome of the roxk mosque
-![Carpets](https://github.com/user-attachments/assets/2a39af23-29c6-48d4-8292-8fd03d30daba)
+![Carpets2](https://github.com/user-attachments/assets/55ecfaef-9ab0-4307-9327-47737673409b)
+
 3.Al qibly mosque
-![Al Qibly Mousque](https://github.com/user-attachments/assets/8c4813a5-f61a-412f-804a-55caa1d1b270)
+![Al Qibly Mousque2](https://github.com/user-attachments/assets/a0db9ed5-18d9-4937-9a9e-34f14156aa22)
+
 4.The wall of al-aqsa mosque
-![Wall](https://github.com/user-attachments/assets/5bf838b2-f836-4d93-aa32-ccbc9ac9ee34)
+![Wall2](https://github.com/user-attachments/assets/988eae53-4ce9-493e-b352-6ee1994fa161)
